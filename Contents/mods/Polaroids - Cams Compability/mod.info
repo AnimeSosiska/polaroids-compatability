@@ -1,0 +1,5 @@
+name=Polaroids - Cams Compatibility
+poster=poster.png
+require=Polaroids
+id=polaroidcamsASV
+description=Now you can craft polaroid camera from vanilla cams

@@ -1,0 +1,11 @@
+module PolaroidComp {
+    imports {
+        Base
+    }
+    recipe Change to Polaroid {
+        CameraDisposable/Camera,
+
+        Result:Polaroids.PolaroidCamera,
+        Time:1,
+    }
+}
